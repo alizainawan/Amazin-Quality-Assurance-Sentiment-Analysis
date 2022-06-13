@@ -7,11 +7,12 @@ Sentiment analysis is a sub-feild of Natural Language Processing in which we col
  Random Forest Classifier
  Nearest Neighbours
  
+ 
+ **Graphical Representation**
+ ![Screenshot 2022-06-13 151002](https://user-images.githubusercontent.com/80381336/173331489-b93bc342-f1cf-429c-ae21-2663a8dd0d53.png)
+
+ 
 
 **Results**
 
 ![Screenshot 2022-06-13 142048](https://user-images.githubusercontent.com/80381336/173322238-5509a47b-e725-4c35-9233-7173fd6bb98c.png)
-
-**Comparsion Graph**
-
-![Screenshot 2022-06-13 150522](https://user-images.githubusercontent.com/80381336/173330730-0b4c2fdd-6b6f-4a72-a056-a3cd96120698.png)

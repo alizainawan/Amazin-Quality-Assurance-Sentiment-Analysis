@@ -5,7 +5,8 @@ Sentiment analysis is a sub-feild of Natural Language Processing in which we col
 
 **Dataset**
 
-Amazon Quality Reviews 
+Amzaon Quality Reiews
+
 
 
 
@@ -70,10 +71,8 @@ CatBoost
  
  **Comparsion**
 
-![Models Comp](https://user-images.githubusercontent.com/80381336/175468768-9bc9af53-a112-4860-b579-105741932da5.png)
+![Macro comp](https://user-images.githubusercontent.com/80381336/175510275-e29290c9-d582-44d5-a743-4455bbf8d353.png)
 
-
- 
 
 
 **Results**

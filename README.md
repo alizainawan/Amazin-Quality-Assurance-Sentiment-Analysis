@@ -35,6 +35,21 @@ CatBoost
  
  
  ![cm_knn-06-24 103249](https://user-images.githubusercontent.com/80381336/175469521-1da9b94d-b5cf-41d1-86b9-bbc2803c872d.png)
+ 
+ 
+ Support Vector Machine
+ 
+ 
+ 
+ ![cm_sv](https://user-images.githubusercontent.com/80381336/175509961-59450058-fb11-4955-8437-87d3c6fefd52.png)
+
+ 
+ 
+ 
+ Gradient Decent
+ 
+
+![cm_GD](https://user-images.githubusercontent.com/80381336/175510021-9f8cb8f8-fe44-42a4-8a15-146494e2e3a7.png)
 
 
 
@@ -49,6 +64,9 @@ CatBoost
  
  Nearest Neighbours
  
+ Support Vector Machine 
+ 
+ Gradient Decent Classifier
  
  **Comparsion**
 
@@ -64,5 +82,6 @@ CatBoost
 Macro Accuracy Of All Algorithims
 
 
-![Mean accuracy](https://user-images.githubusercontent.com/80381336/175468811-2c653817-ebb3-41c8-97bf-5132f8eaf4cb.png)
+![Macro Acc](https://user-images.githubusercontent.com/80381336/175510104-d2562b52-8ae4-4704-ac0f-2524ee622d41.png)
+
 

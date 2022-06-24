@@ -49,7 +49,7 @@ CatBoost
  Nearest Neighbours
  
  
- **Graphical Representation**
+ **Comparsion**
 
 ![Models Comp](https://user-images.githubusercontent.com/80381336/175468768-9bc9af53-a112-4860-b579-105741932da5.png)
 

@@ -3,6 +3,7 @@ Sentiment analysis is a sub-feild of Natural Language Processing in which we col
 
 
  **Models**
+ Decision Tree
  
  CatBoost
  
@@ -12,10 +13,13 @@ Sentiment analysis is a sub-feild of Natural Language Processing in which we col
  
  
  **Graphical Representation**
- ![Screenshot 2022-06-13 151002](https://user-images.githubusercontent.com/80381336/173331489-b93bc342-f1cf-429c-ae21-2663a8dd0d53.png)
+
+![Models Comp](https://user-images.githubusercontent.com/80381336/175468768-9bc9af53-a112-4860-b579-105741932da5.png)
+
 
  
 
 **Results**
 
-![Screenshot 2022-06-13 142048](https://user-images.githubusercontent.com/80381336/173322238-5509a47b-e725-4c35-9233-7173fd6bb98c.png)
+![Mean accuracy](https://user-images.githubusercontent.com/80381336/175468811-2c653817-ebb3-41c8-97bf-5132f8eaf4cb.png)
+
